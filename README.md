@@ -8,7 +8,7 @@
 - Twitter: <a href = "https://twitter.com/EdonXH1">EdonXH1</a>
 - Website: coming soon
 ### 🛠️ Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nextjs](https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=nextjs)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
